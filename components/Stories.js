@@ -4,7 +4,7 @@ const stories = [
     {
         name: "Camilo Castrillon",
         src: "/yo.jpeg",
-        profile: "https://links.papareact.com/l4v"
+        profile:  "https://links.papareact.com/l4v"
     },
     {
         name: "Bill Gates",
